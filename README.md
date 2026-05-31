@@ -26,38 +26,40 @@
 
 <br>
 
-**Hey! I'm Briam Vanegas — AI Engineer from Colombia**
+<img src="https://skillicons.dev/icons?i=openai&theme=dark" width="22" align="center"/> &nbsp; **Hey! I'm Briam Vanegas — AI Engineer from Colombia**
 
-<br>
+<br><br>
 
-<table border="0" cellpadding="6">
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=openai&theme=dark" width="36"/></td>
-    <td><strong>AI Engineer</strong> — LLMs, RAG pipelines & intelligent automations</td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="36"/></td>
-    <td><strong>Backend dev</strong> — building production-ready intelligent systems</td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=python&theme=dark" width="36"/></td>
-    <td><strong>Stack</strong> — LangChain · Fine-tuning · Vector DBs · Docker</td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="36"/></td>
-    <td><strong>Always learning</strong> — new models & cutting-edge AI research</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/-1a0e08?style=flat-square&logo=stackoverflow&logoColor=D4A017&labelColor=1a0e08" height="36"/></td>
-    <td><strong>Ask me about</strong> — LLMs, RAG, AI Automations or anything backend</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/-1a0e08?style=flat-square&logo=coffeescript&logoColor=D4A017&labelColor=1a0e08" height="36"/></td>
-    <td><strong>Fun fact</strong> — I spend hours tweaking a prompt until it's perfect</td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=openai&theme=dark" width="22" align="center"/> &nbsp; I specialize in building AI-powered systems:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RAG pipelines, LLM apps & intelligent automations
 
-<br>
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="22" align="center"/> &nbsp; On the backend I work with Python, Node.js and<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; databases like PostgreSQL, MongoDB & MySQL
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="22" align="center"/> &nbsp; My current stack:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → LangChain &nbsp;→ Fine-tuning &nbsp;→ Vector DBs<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → Prompt Engineering &nbsp;→ ML Pipelines &nbsp;→ Docker
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="22" align="center"/> &nbsp; Always learning: new models, architectures &<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; cutting-edge AI research
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=stackoverflow&theme=dark" width="22" align="center"/> &nbsp; Ask me about: LLMs, RAG, AI Automations<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; or anything backend-related
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="22" align="center"/> &nbsp; Fun fact: I can spend hours tweaking a prompt<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; until it's perfect
+
+<br><br>
 
   </td>
     <td valign="top" width="40%" align="center">
