@@ -28,7 +28,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=openai&theme=dark" width="22" align="center"/> &nbsp; I specialize in building AI-powered systems:<br>
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="22" align="center"/> &nbsp; I specialize in building AI-powered systems:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RAG pipelines, LLM apps & intelligent automations
 
 <br>
