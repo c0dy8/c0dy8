@@ -119,6 +119,18 @@
 
 <br>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/c0dy8/c0dy8/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/c0dy8/c0dy8/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/c0dy8/c0dy8/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+<br>
+
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D4A017,50:A0522D,100:6B3A2A&height=120&section=footer" />
 </div>
