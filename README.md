@@ -20,11 +20,9 @@
 
 ## 🧠 About Me
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="8">
   <tr>
     <td valign="top" width="55%">
-
-<br>
 
 <img src="https://skillicons.dev/icons?i=github&theme=dark" width="22" align="center"/> &nbsp; **Hey! I'm Briam Vanegas — AI Engineer from Colombia**
 
@@ -59,11 +57,9 @@
 <img src="https://skillicons.dev/icons?i=python&theme=dark" width="22" align="center"/> &nbsp; Fun fact: I can spend hours tweaking a prompt<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; until it's perfect
 
-<br><br>
-
   </td>
     <td valign="middle" width="45%" align="center">
-      <img src="https://media.giphy.com/media/GghGKaZ8JeHJx0apQC/giphy.gif" width="300" alt="coding gif" />
+      <img src="https://media.giphy.com/media/GghGKaZ8JeHJx0apQC/giphy.gif" width="320" alt="coding gif" />
     </td>
   </tr>
 </table>
