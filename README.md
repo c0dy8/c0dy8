@@ -28,7 +28,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/⠀-1a0e08?logo=openai&logoColor=D4A017&style=flat-square" height="22" align="center"/> &nbsp; I specialize in building AI-powered systems:<br>
+<img src="https://img.shields.io/badge/⠀-1a0e08?logo=anthropic&logoColor=D4A017&style=flat-square" height="22" align="center"/> &nbsp; I specialize in building AI-powered systems:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RAG pipelines, LLM apps & intelligent automations
 
 <br>
