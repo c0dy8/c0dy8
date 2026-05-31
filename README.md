@@ -79,6 +79,7 @@
   <img src="https://img.shields.io/badge/LLM-6B3A2A?style=for-the-badge&logo=openai&logoColor=D4A017" alt="LLM" />
   <img src="https://img.shields.io/badge/RAG-6B3A2A?style=for-the-badge&logo=databricks&logoColor=D4A017" alt="RAG" />
   <img src="https://img.shields.io/badge/Embeddings-6B3A2A?style=for-the-badge&logo=pinecone&logoColor=D4A017" alt="Embeddings" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-6B3A2A?style=for-the-badge&logo=openai&logoColor=D4A017" alt="Prompt Engineering" />
 </div>
 
 ### 🧱 Backend & Databases
