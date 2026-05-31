@@ -83,15 +83,21 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=c0dy8&show_icons=true&include_all_commits=true&count_private=true&border_radius=10&bg_color=1a0e08&title_color=D4A017&icon_color=F5A623&text_color=F5DEB3&border_color=6B3A2A" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=c0dy8&theme=gruvbox" />
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0dy8&layout=compact&langs_count=7&border_radius=10&bg_color=1a0e08&title_color=D4A017&text_color=F5DEB3&border_color=6B3A2A" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c0dy8&theme=gruvbox" />
 </div>
 
 <br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=c0dy8&border_radius=10&background=1a0e08&border=6B3A2A&stroke=6B3A2A&ring=D4A017&fire=F5A623&currStreakNum=F5DEB3&sideNums=F5DEB3&currStreakLabel=D4A017&sideLabels=A0522D&dates=A0522D" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=c0dy8&bg_color=1a0e08&color=F5DEB3&line=D4A017&point=F5A623&area=true&border_color=6B3A2A&radius=10" alt="Activity Graph" />
 </div>
 
 ---
