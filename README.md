@@ -20,9 +20,9 @@
 
 ## 🧠 About Me
 
-<table>
+<table width="100%">
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="55%">
 
 <br>
 
@@ -62,8 +62,8 @@
 <br><br>
 
   </td>
-    <td valign="top" width="40%" align="center">
-      <img src="https://media.giphy.com/media/GghGKaZ8JeHJx0apQC/giphy.gif" width="280" alt="coding gif" />
+    <td valign="middle" width="45%" align="center">
+      <img src="https://media.giphy.com/media/GghGKaZ8JeHJx0apQC/giphy.gif" width="300" alt="coding gif" />
     </td>
   </tr>
 </table>
