@@ -86,7 +86,7 @@
 
 ### 🌐 Frontend & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode,figma,postman&theme=dark" />
   <br><br>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 </div>
