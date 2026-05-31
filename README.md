@@ -28,12 +28,12 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="22" align="center"/> &nbsp; I specialize in building AI-powered systems:<br>
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="22" align="center"/> &nbsp; I specialize in building AI-powered systems:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RAG pipelines, LLM apps & intelligent automations
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="22" align="center"/> &nbsp; On the backend I work with Python, Node.js and<br>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="22" align="center"/> &nbsp; On the backend I work with Python, Node.js and<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; databases like PostgreSQL, MongoDB & MySQL
 
 <br>
@@ -44,7 +44,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="22" align="center"/> &nbsp; Always learning: new models, architectures &<br>
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="22" align="center"/> &nbsp; Always learning: new models, architectures &<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; cutting-edge AI research
 
 <br>
@@ -54,7 +54,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" width="22" align="center"/> &nbsp; Fun fact: I can spend hours tweaking a prompt<br>
+<img src="https://skillicons.dev/icons?i=bash&theme=dark" width="22" align="center"/> &nbsp; Fun fact: I can spend hours tweaking a prompt<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; until it's perfect
 
   </td>
