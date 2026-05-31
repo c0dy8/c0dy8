@@ -62,8 +62,8 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,openai&theme=dark" />
   <br><br>
-  ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-  ![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9A00?style=for-the-badge&logo=huggingface&logoColor=white)
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/HuggingFace-FF9A00?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace" />
 </div>
 
 ### 🧱 Backend & Databases
