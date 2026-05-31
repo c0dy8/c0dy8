@@ -73,6 +73,8 @@
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
   <br><br>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Langfuse-6B3A2A?style=for-the-badge&logo=statuspage&logoColor=D4A017" alt="Langfuse" />
   <img src="https://img.shields.io/badge/HuggingFace-FF9A00?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace" />
   <img src="https://img.shields.io/badge/LLM-6B3A2A?style=for-the-badge&logo=openai&logoColor=D4A017" alt="LLM" />
   <img src="https://img.shields.io/badge/RAG-6B3A2A?style=for-the-badge&logo=databricks&logoColor=D4A017" alt="RAG" />
