@@ -84,7 +84,7 @@
 
 ### 🧱 Backend & Databases
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,mysql,docker&theme=dark" />
 </div>
 
 ### 🌐 Frontend & Tools
