@@ -24,28 +24,40 @@
   <tr>
     <td valign="top" width="60%">
 
-```txt
-👋  Hey! I'm Briam Vanegas — AI Engineer from Colombia 🇨🇴
+<br>
 
-🤖  I specialize in building AI-powered systems:
-    RAG pipelines, LLM apps & intelligent automations
+**Hey! I'm Briam Vanegas — AI Engineer from Colombia**
 
-⚙️  On the backend I work with Python, Node.js and
-    databases like PostgreSQL, MongoDB & MySQL
+<br>
 
-🔥  My current stack:
-    → LangChain  → Fine-tuning  → Vector DBs
-    → Prompt Engineering  → ML Pipelines  → Docker
+<table border="0" cellpadding="6">
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=openai&theme=dark" width="36"/></td>
+    <td><strong>AI Engineer</strong> — LLMs, RAG pipelines & intelligent automations</td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="36"/></td>
+    <td><strong>Backend dev</strong> — building production-ready intelligent systems</td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=python&theme=dark" width="36"/></td>
+    <td><strong>Stack</strong> — LangChain · Fine-tuning · Vector DBs · Docker</td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="36"/></td>
+    <td><strong>Always learning</strong> — new models & cutting-edge AI research</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-1a0e08?style=flat-square&logo=stackoverflow&logoColor=D4A017&labelColor=1a0e08" height="36"/></td>
+    <td><strong>Ask me about</strong> — LLMs, RAG, AI Automations or anything backend</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-1a0e08?style=flat-square&logo=coffeescript&logoColor=D4A017&labelColor=1a0e08" height="36"/></td>
+    <td><strong>Fun fact</strong> — I spend hours tweaking a prompt until it's perfect</td>
+  </tr>
+</table>
 
-🌱  Always learning: new models, architectures &
-    cutting-edge AI research
-
-💬  Ask me about: LLMs, RAG, AI Automations
-    or anything backend-related
-
-⚡  Fun fact: I can spend hours tweaking a prompt
-    until it's perfect
-```
+<br>
 
   </td>
     <td valign="top" width="40%" align="center">
