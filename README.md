@@ -150,5 +150,5 @@
 <br>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D4A017,50:A0522D,100:6B3A2A&height=120&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D4A017,50:A0522D,100:6B3A2A&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=65" />
 </div>
