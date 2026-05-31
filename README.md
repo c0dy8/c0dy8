@@ -25,12 +25,26 @@
     <td valign="top" width="60%">
 
 ```txt
-🤖  AI Engineer focused on LLMs, RAG pipelines & Automations
-🔧  Backend developer who builds intelligent production systems
-🌱  Always exploring: new models, architectures & cutting-edge AI tools
-🔥  LangChain  •  Fine-tuning  •  Vector DBs  •  ML Pipelines
-💡  Turning complex AI research into real-world solutions
-📍  Colombia 🇨🇴
+👋  Hey! I'm Briam Vanegas — AI Engineer from Colombia 🇨🇴
+
+🤖  I specialize in building AI-powered systems:
+    RAG pipelines, LLM apps & intelligent automations
+
+⚙️  On the backend I work with Python, Node.js and
+    databases like PostgreSQL, MongoDB & MySQL
+
+🔥  My current stack:
+    → LangChain  → Fine-tuning  → Vector DBs
+    → Prompt Engineering  → ML Pipelines  → Docker
+
+🌱  Always learning: new models, architectures &
+    cutting-edge AI research
+
+💬  Ask me about: LLMs, RAG, AI Automations
+    or anything backend-related
+
+⚡  Fun fact: I can spend hours tweaking a prompt
+    until it's perfect
 ```
 
   </td>
