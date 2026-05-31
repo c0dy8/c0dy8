@@ -70,20 +70,25 @@
 
 ### 🤖 AI / Machine Learning
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,openai&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
   <br><br>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/HuggingFace-FF9A00?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace" />
+  <img src="https://img.shields.io/badge/LLM-6B3A2A?style=for-the-badge&logo=openai&logoColor=D4A017" alt="LLM" />
+  <img src="https://img.shields.io/badge/RAG-6B3A2A?style=for-the-badge&logo=databricks&logoColor=D4A017" alt="RAG" />
+  <img src="https://img.shields.io/badge/Embeddings-6B3A2A?style=for-the-badge&logo=pinecone&logoColor=D4A017" alt="Embeddings" />
 </div>
 
 ### 🧱 Backend & Databases
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres,mysql,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,docker&theme=dark" />
 </div>
 
 ### 🌐 Frontend & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode,figma&theme=dark" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 </div>
 
 ---
