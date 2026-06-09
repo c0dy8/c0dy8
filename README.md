@@ -34,7 +34,7 @@
 <br>
 
 <img src="https://img.shields.io/badge/⠀-1a0e08?logo=nodedotjs&logoColor=D4A017&style=flat-square" height="22" align="center"/> &nbsp; On the backend I work with Python, Node.js and<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; databases like PostgreSQL, MongoDB & MySQL
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; databases such as PostgreSQL, MongoDB & MySQL
 
 <br>
 
